@@ -13,6 +13,5 @@ func Question() {
 
 	// logic
 
-	result := ""
-	fmt.Printf("%d\n", result)
+	fmt.Println()
 }
